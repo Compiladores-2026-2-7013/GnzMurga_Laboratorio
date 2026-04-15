@@ -1,4 +1,4 @@
-# Reporte: Análisis Sintáctico LL(1) — Puntos 1 al 4
+# Reporte: Análisis Sintáctico
 
 ## Gramática Original G = (N, Σ, P, S)
 
