@@ -1,0 +1,4 @@
+// Prueba inválida 2: Falta punto y coma en sentencia
+int x, y;
+x = 10;
+y = x + 5

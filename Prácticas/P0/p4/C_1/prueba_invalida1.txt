@@ -1,0 +1,4 @@
+// Prueba inválida 1: Falta punto y coma en declaración
+int x, y, z
+float a;
+x = 10;

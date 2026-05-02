@@ -1,0 +1,7 @@
+int x, y, z;
+float a, b;
+x = 10;
+y = 20;
+z = x + y;
+a = 3.14;
+b = a * 2;

@@ -1,0 +1,4 @@
+int x y;
+float b;
+x = 10
+b = x + ;

@@ -1,0 +1,14 @@
+int i, resultado;
+float promedio;
+i = 0;
+resultado = 1;
+promedio = 0.0;
+while ( i + 1 ) {
+    resultado = resultado * 2;
+    i = i + 1;
+}
+if ( resultado ) {
+    promedio = resultado / 4;
+} else {
+    promedio = 0;
+}
